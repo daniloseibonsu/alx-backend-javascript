@@ -15,5 +15,8 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jest": "^28.10.0",
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "babel-install": "^2.1.0"
   }
 }
